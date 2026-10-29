@@ -1,33 +1,34 @@
+![Danny Jiménez Palma — Desarrollador de software](portada-danny.png)
+
 <div align="center">
 
-# Danny Jiménez Palma
-### Desarrollador de software · .NET · Soporte de TI
-**Heredia, Costa Rica**
+**C# · ASP.NET Core · SQL Server · Soporte de TI**  
+Heredia, Costa Rica
 
-[LinkedIn](https://www.linkedin.com/in/danny-jim%C3%A9nez-palma-089646312/) · [Correo](mailto:djimenezcr07@gmail.com)
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-0F766E?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/danny-jim%C3%A9nez-palma-089646312/) · [Contacto](mailto:djimenezcr07@gmail.com) · [Distribuidora JJ](https://github.com/djimenezcr07/Distribuidora-JJ)
 
 </div>
 
 ## Software para procesos reales
-Desarrollo aplicaciones web empresariales con C#, ASP.NET Core MVC y SQL Server. Me interesa convertir necesidades operativas en soluciones claras para inventario, pedidos, facturación y administración, acompañadas de documentación y soporte a los usuarios.
+Desarrollo aplicaciones web empresariales con C#, ASP.NET Core MVC y SQL Server para inventario, pedidos, facturación y administración. Combino el desarrollo con soporte de TI, atención a usuarios y documentación técnica.
 
 ## Experiencia
 | Organización | Aporte | Periodo |
 | --- | --- | --- |
-| **On The Rush** | Desarrollo de soluciones, soporte de TI, gestión de incidencias y recopilación de requerimientos. | 2024–actualidad |
+| **On The Rush** | Desarrollo de soluciones, soporte de TI, gestión de incidencias y requerimientos. | 2024–actualidad |
 | **Distribuidora JJ** | Desarrollo full stack de una aplicación web empresarial con tienda en línea y gestión administrativa. | 2022–2023 |
-| **PMI Costa Rica Chapter** | Colaboración en soporte técnico, seguimiento de solicitudes y documentación de soluciones. | 2025–actualidad |
+| **PMI Costa Rica Chapter** | Colaboración en soporte técnico, seguimiento de solicitudes y documentación. | 2025–actualidad |
 
 ## Proyecto destacado · Distribuidora JJ
-Aplicación web que integra comercio electrónico, inventario, pedidos, facturación y administración de clientes y empleados.
+Aplicación empresarial con comercio electrónico, inventario, pedidos, facturación y administración de clientes y empleados.
 
 **C# · ASP.NET Core MVC · API REST · SQL Server · HTML · CSS · JavaScript · Bootstrap**
 
-Autenticación y autorización por roles, validaciones del servidor, protección antiforgery y pruebas automatizadas con xUnit.
+Autenticación por roles, validaciones del servidor, protección antiforgery y pruebas automatizadas con xUnit.
 
-## Herramientas y conocimientos
+[Explorar el proyecto →](https://github.com/djimenezcr07/Distribuidora-JJ)
+
+## Tecnologías y herramientas
 - **Backend y datos:** C#, ASP.NET Core MVC, Web API, SQL y modelado relacional.
 - **Frontend:** HTML5, CSS3, JavaScript y Bootstrap.
 - **Calidad y entrega:** Git, xUnit, CI/CD, Azure DevOps Pipelines y Azure.
