@@ -1,123 +1,45 @@
-# Hola, soy Danny Jiménez 👋
+<div align="center">
 
-Soy estudiante de Ingeniería en Sistemas en Costa Rica, enfocado en el desarrollo de aplicaciones web, sistemas administrativos, bases de datos y soluciones con tecnologías .NET.
+# Danny Jiménez Palma
+### Desarrollador de software · .NET · Soporte de TI
+**Heredia, Costa Rica**
 
-Me interesa crear sistemas útiles, ordenados y funcionales, especialmente aplicaciones con lógica de negocio, gestión de datos, seguridad básica, reportes y conexión con bases de datos.
+[LinkedIn](https://www.linkedin.com/in/danny-jim%C3%A9nez-palma-089646312/) · [Correo](mailto:djimenezcr07@gmail.com)
 
----
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-0F766E?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## Sobre mí
+</div>
 
-* Estudiante de Ingeniería en Sistemas.
-* Enfoque principal en desarrollo web con C#, ASP.NET MVC, .NET y SQL Server.
-* Experiencia académica desarrollando sistemas administrativos, tiendas web, APIs y proyectos con bases de datos.
-* Conocimientos en redes, direccionamiento IP, fundamentos CCNA e IoT.
-* Interés en backend, bases de datos, seguridad básica y documentación técnica.
+## Software para procesos reales
+Desarrollo aplicaciones web empresariales con C#, ASP.NET Core MVC y SQL Server. Me interesa convertir necesidades operativas en soluciones claras para inventario, pedidos, facturación y administración, acompañadas de documentación y soporte a los usuarios.
 
----
+## Experiencia
+| Organización | Aporte | Periodo |
+| --- | --- | --- |
+| **On The Rush** | Desarrollo de soluciones, soporte de TI, gestión de incidencias y recopilación de requerimientos. | 2024–actualidad |
+| **Distribuidora JJ** | Desarrollo full stack de una aplicación web empresarial con tienda en línea y gestión administrativa. | 2022–2023 |
+| **PMI Costa Rica Chapter** | Colaboración en soporte técnico, seguimiento de solicitudes y documentación de soluciones. | 2025–actualidad |
 
-## Tecnologías y herramientas
+## Proyecto destacado · Distribuidora JJ
+Aplicación web que integra comercio electrónico, inventario, pedidos, facturación y administración de clientes y empleados.
 
-### Desarrollo
+**C# · ASP.NET Core MVC · API REST · SQL Server · HTML · CSS · JavaScript · Bootstrap**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+Autenticación y autorización por roles, validaciones del servidor, protección antiforgery y pruebas automatizadas con xUnit.
 
-### Bases de datos
+## Herramientas y conocimientos
+- **Backend y datos:** C#, ASP.NET Core MVC, Web API, SQL y modelado relacional.
+- **Frontend:** HTML5, CSS3, JavaScript y Bootstrap.
+- **Calidad y entrega:** Git, xUnit, CI/CD, Azure DevOps Pipelines y Azure.
+- **Soporte y CMS:** gestión de incidencias, documentación técnica y WordPress.
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+## Formación
+**Bachillerato en Ingeniería en Sistemas de Computación**, Universidad Fidélitas · 2021–actualidad. Práctica profesional prevista para 2027.
 
-### Herramientas
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-### Redes y soporte técnico
-
-* Fundamentos de redes.
-* Direccionamiento IP.
-* Switching y routing básico.
-* Conceptos de Cisco / CCNA.
-* Diagnóstico técnico y soporte básico.
+- Scrum Fundamentals Certified · SCRUMstudy · 2023
+- Introduction to Networks · Cisco Networking Academy · 2023
+- Switching, Routing, and Wireless Essentials · Cisco Networking Academy · 2024
+- Administración de sitios y desarrollo de temas · Learn WordPress · 2026
 
 ---
-
-## Proyectos destacados
-
-### Licorera La Bodega / Trilogia-Cursos
-
-Sistema web administrativo desarrollado con ASP.NET MVC y SQL Server. Incluye módulos de tienda, carrito de compras, inventario, pedidos, clientes, empleados, facturación y panel administrativo.
-
-**Tecnologías:** C#, ASP.NET MVC, SQL Server, HTML, CSS, JavaScript.
-
-**Estado:** Proyecto académico avanzado en preparación para portafolio.
-
----
-
-### API de Gestión de Tareas
-
-Proyecto orientado a practicar desarrollo backend con .NET Web API, endpoints REST, validaciones, conexión a base de datos y documentación técnica.
-
-**Tecnologías:** C#, .NET Web API, SQL Server, Swagger.
-
-**Estado:** En preparación.
-
----
-
-### Calculadora de Subredes IPv4
-
-Herramienta web para calcular datos de red a partir de una dirección IP y una máscara CIDR. Proyecto pensado para unir desarrollo web con fundamentos de redes.
-
-**Tecnologías:** HTML, CSS, JavaScript.
-
-**Estado:** En preparación.
-
----
-
-### Dashboard de Ventas
-
-Proyecto enfocado en visualizar métricas de ventas, reportes, consultas SQL y datos administrativos de forma clara.
-
-**Tecnologías:** SQL Server, C#, .NET, HTML, CSS, JavaScript.
-
-**Estado:** En preparación.
-
----
-
-## Certificaciones y formación
-
-* CCNA: Introduction to Networks.
-* CCNA: Switching, Routing, and Wireless Essentials.
-* Introduction to IoT.
-* Ingeniería en Sistemas.
-
----
-
-## Actualmente fortaleciendo
-
-* Desarrollo web con .NET.
-* APIs REST.
-* SQL Server y procedimientos almacenados.
-* Seguridad básica en aplicaciones web.
-* Buenas prácticas con Git y GitHub.
-* Documentación técnica de proyectos.
-
----
-
-## Objetivo profesional
-
-Seguir creciendo como desarrollador junior, fortaleciendo mis habilidades en backend, bases de datos, APIs, redes y desarrollo de sistemas web reales.
-
----
-
-## Contacto
-
-* GitHub: [@djimenezcr07](https://github.com/djimenezcr07)
-* Ubicación: Costa Rica
+**Aprendizaje continuo · Resolución de problemas · Trabajo en equipo**
