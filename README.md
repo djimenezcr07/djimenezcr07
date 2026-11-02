@@ -28,9 +28,23 @@ Autenticación por roles, validaciones del servidor, protección antiforgery y p
 
 [Explorar el proyecto →](https://github.com/djimenezcr07/Distribuidora-JJ)
 
+## Proyectos de portafolio
+
+Aplicaciones locales que muestran cómo abordo problemas de análisis, automatización y desarrollo de software. Cada repositorio incluye instrucciones, capturas reales y sus limitaciones.
+
+| Proyecto | Descripción | Tecnologías |
+| --- | --- | --- |
+| [**DataVision AI**](https://github.com/djimenezcr07/DataVision-AI) | Exploración y preparación de datos tabulares, consultas y detección de anomalías. | Python · Streamlit · DuckDB · scikit-learn |
+| [**FleetPredict AI**](https://github.com/djimenezcr07/FleetPredict-AI) | Gestión de vehículos, costos y alertas de mantenimiento, con una estimación experimental. | C# · ASP.NET Core · SQL Server · Python |
+| [**VisionInspect**](https://github.com/djimenezcr07/VisionInspect) | Inspección visual de piezas sintéticas con detección de regiones sospechosas. | C++ · OpenCV · Python · Flask |
+| [**DocuMind AI**](https://github.com/djimenezcr07/DocuMind-AI) | Biblioteca documental con búsqueda semántica y evidencia recuperada. | React · ASP.NET Core · Python · PostgreSQL |
+| [**NetGuard AI**](https://github.com/djimenezcr07/NetGuard-AI) | Análisis defensivo de registros de red con reglas y anomalías explicables. | Python · FastAPI · SQLite · scikit-learn |
+| [**FinSense AI**](https://github.com/djimenezcr07/FinSense-AI) | Prototipo de análisis financiero y pronóstico de gastos con datos sintéticos; en desarrollo. | C# · ASP.NET Core · SQL Server · ML.NET |
+
 ## Tecnologías y herramientas
-- **Backend y datos:** C#, ASP.NET Core MVC, Web API, SQL y modelado relacional.
-- **Frontend:** HTML5, CSS3, JavaScript y Bootstrap.
+- **Backend y datos:** C#, ASP.NET Core, Python, FastAPI, SQL Server, PostgreSQL y SQLite.
+- **Frontend:** HTML5, CSS3, JavaScript, React y Bootstrap.
+- **Análisis y aprendizaje automático:** Python, scikit-learn, ML.NET y OpenCV.
 - **Calidad y entrega:** Git, xUnit, CI/CD, Azure DevOps Pipelines y Azure.
 - **Soporte y CMS:** gestión de incidencias, documentación técnica y WordPress.
 
